@@ -5,3 +5,4 @@ diagnostic,
 descriptive, 
 prescriptive, and 
 predictive analytics.
+Big data analytics is the use of advanced analytic techniques against large data sets, including structured/unstructured data and streaming/batch data.
